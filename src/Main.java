@@ -12,7 +12,7 @@ public class Main {
     
     public static void main(String[] args) {
         // Buka frame login atau langsung buka frame utama
-        javax.swing.SwingUtilities.invokeLater(() -> new ui.frmLogin().setVisible(true));
+        javax.swing.SwingUtilities.invokeLater(() -> new ui.frmLogin1().setVisible(true));
     }
     
 }
